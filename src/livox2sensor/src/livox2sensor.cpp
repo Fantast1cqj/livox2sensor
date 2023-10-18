@@ -28,7 +28,7 @@ void livoxPointCloudCallback(const livox_ros_driver2::CustomMsg& input_cloud)
 
     output_cloud.header = input_cloud.header;
 
-    // 设置header信息 
+    // 设置header的信息 
 
  //  output_cloud.header = input_cloud.header;
  //  output_cloud.header.frame_id = "livox_frame";
