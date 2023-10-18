@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/drone/livox_ros_ws/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/drone/livox_ros_ws/src/livox2sensor/include/**",
+                "/usr/include/**",
+                "/opt/ros/noetic/include",
+                "/home/drone/livox_ros_ws/devel/include",
+                "/usr/include/pcl-1.10",
+                "/usr/include/eigen3"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

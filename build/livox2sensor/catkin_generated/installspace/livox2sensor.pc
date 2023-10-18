@@ -1,0 +1,8 @@
+prefix=/home/drone/livox2sensor/install
+
+Name: livox2sensor
+Description: Description of livox2sensor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

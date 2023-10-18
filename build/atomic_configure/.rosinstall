@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/drone/livox2sensor/devel/setup.sh

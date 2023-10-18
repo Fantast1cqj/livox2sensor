@@ -1,0 +1,2 @@
+livox2sensor
+-DCATKIN_DEVEL_PREFIX=/home/drone/livox2sensor/devel -DCMAKE_INSTALL_PREFIX=/home/drone/livox2sensor/install -G Unix Makefiles
